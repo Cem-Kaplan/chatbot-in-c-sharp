@@ -1,0 +1,15 @@
+C:\Users\Cem\Documents\Programmieren\GitHub Projekte\C# chatbot\csharp_chatbot\bin\Debug\net9.0\csharp_chatbot.exe
+C:\Users\Cem\Documents\Programmieren\GitHub Projekte\C# chatbot\csharp_chatbot\bin\Debug\net9.0\csharp_chatbot.deps.json
+C:\Users\Cem\Documents\Programmieren\GitHub Projekte\C# chatbot\csharp_chatbot\bin\Debug\net9.0\csharp_chatbot.runtimeconfig.json
+C:\Users\Cem\Documents\Programmieren\GitHub Projekte\C# chatbot\csharp_chatbot\bin\Debug\net9.0\csharp_chatbot.dll
+C:\Users\Cem\Documents\Programmieren\GitHub Projekte\C# chatbot\csharp_chatbot\bin\Debug\net9.0\csharp_chatbot.pdb
+C:\Users\Cem\Documents\Programmieren\GitHub Projekte\C# chatbot\csharp_chatbot\obj\Debug\net9.0\csharp_chatbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cem\Documents\Programmieren\GitHub Projekte\C# chatbot\csharp_chatbot\obj\Debug\net9.0\csharp_chatbot.AssemblyInfoInputs.cache
+C:\Users\Cem\Documents\Programmieren\GitHub Projekte\C# chatbot\csharp_chatbot\obj\Debug\net9.0\csharp_chatbot.AssemblyInfo.cs
+C:\Users\Cem\Documents\Programmieren\GitHub Projekte\C# chatbot\csharp_chatbot\obj\Debug\net9.0\csharp_chatbot.csproj.CoreCompileInputs.cache
+C:\Users\Cem\Documents\Programmieren\GitHub Projekte\C# chatbot\csharp_chatbot\obj\Debug\net9.0\csharp_chatbot.sourcelink.json
+C:\Users\Cem\Documents\Programmieren\GitHub Projekte\C# chatbot\csharp_chatbot\obj\Debug\net9.0\csharp_chatbot.dll
+C:\Users\Cem\Documents\Programmieren\GitHub Projekte\C# chatbot\csharp_chatbot\obj\Debug\net9.0\refint\csharp_chatbot.dll
+C:\Users\Cem\Documents\Programmieren\GitHub Projekte\C# chatbot\csharp_chatbot\obj\Debug\net9.0\csharp_chatbot.pdb
+C:\Users\Cem\Documents\Programmieren\GitHub Projekte\C# chatbot\csharp_chatbot\obj\Debug\net9.0\csharp_chatbot.genruntimeconfig.cache
+C:\Users\Cem\Documents\Programmieren\GitHub Projekte\C# chatbot\csharp_chatbot\obj\Debug\net9.0\ref\csharp_chatbot.dll
